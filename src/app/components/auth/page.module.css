@@ -42,6 +42,14 @@
   font-size: 16px;
 }
 
+.inputError {
+  padding: 12px;
+  border-radius: 8px;
+  border: 4px solid #f88;
+  font-size: 16px;
+  background-color: #fee;
+}
+
 .button {
   margin-top: 12px;
   padding: 12px;
